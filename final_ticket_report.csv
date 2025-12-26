@@ -1,0 +1,6 @@
+ticket_id,message,clean_message,issue_type,priority,sla_hours,created_time,due_time
+1,Payment failed and amount deducted,payment failed and amount deducted,PAYMENT,P2,24,2025-12-26 16:27:05.183677,2025-12-27 16:27:05.183677
+2,Unable to login to my account,unable to login to my account,LOGIN,P2,24,2025-12-26 16:27:05.183677,2025-12-27 16:27:05.183677
+3,Delivery is delayed please help,delivery is delayed please help,DELIVERY,P1,8,2025-12-26 16:27:05.183677,2025-12-27 00:27:05.183677
+4,I want refund immediately,i want refund immediately,REFUND,P0,4,2025-12-26 16:27:05.183677,2025-12-26 20:27:05.183677
+5,App has a bug and crashes,app has a bug and crashes,BUG,P2,24,2025-12-26 16:27:05.183677,2025-12-27 16:27:05.183677
